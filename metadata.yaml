@@ -1,0 +1,32 @@
+_repo: My-Merry-Rockhurst-Being-Some-Episodes-in-the-Life-of-Viscount-Rockhurst-a-Friend-of-King-Cha__57407
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Castle, Egerton
+    birthdate: 1858
+    deathdate: 1920
+    gutenberg_agent_id: '4570'
+    url: http://www.gutenberg.org/2009/agents/4570
+  - agent_name: Castle, Agnes
+    aliases:
+    - Sweetman, Agnes
+    - Castle, Agnes Sweetman
+    deathdate: 1922
+    gutenberg_agent_id: '42676'
+    url: http://www.gutenberg.org/2009/agents/42676
+description: ''
+gutenberg_issued: '2018-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"My Merry Rockhurst"
+
+  Being Some Episodes in the Life of Viscount Rockhurst, a Friend of King Charles
+  the Second, and at One Time Constable of His Majesty''s Tower of London'
+url: http://www.gutenberg.org/ebooks/57407
